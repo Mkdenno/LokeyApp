@@ -4,7 +4,7 @@ import aboutImg from "/assets/about.svg"
 function About() {
   return (
     <div>
-        <div className='px-4 lg:px-14 max-w-screen-2xl max-auto my-8'>
+        <div className='px-4 lg:px-14 max-w-screen-2xl max-auto my-8' id="about">
             <div className='md:w-11/12 mx-auto flex flex-col md:flex-row justify-between items-center'>
 
             <div>
